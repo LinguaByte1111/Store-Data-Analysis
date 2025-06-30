@@ -10,5 +10,9 @@ Data and files related to Excel tutorial videos on Rishabh Mishra's youtube chan
 - Created pivot tables according to the questions asked.
 - Merge all pivot tables into one dashboard and apply slicer to make <a href="Vrinda Store Annual Report.jpg">dashboard interactive</a> and dynamic.
 
+## **Dashboard**
+
+![Alt text of the image]()
+
 ## Watch videos related to data analytics project: 
 https://www.youtube.com/watch?v=gTK5rNhWJyA 
