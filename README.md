@@ -1,5 +1,4 @@
-
-
 # Store-Data-Analysis
 
-https://www.youtube.com/watch?v=gTK5rNhWJyA
+## Watch videos related to data analytics project: 
+https://www.youtube.com/watch?v=gTK5rNhWJyA 
