@@ -3,7 +3,6 @@
 ## Excel- Vrinda Store Data Analysis 
 Data and files related to Excel tutorial videos on Rishabh Mishra's youtube channel 
 
-
 ## **Process**
 
 - Verify data for any missing values and anomalies, and sort out the same.
