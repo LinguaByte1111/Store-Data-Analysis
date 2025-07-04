@@ -21,6 +21,5 @@ Data and files related to Excel tutorial videos on Rishabh Mishra's youtube chan
 - The adult age group (30-49 yrs) is max contributing (~50%) and buys the most products.
 - The maximum number of products customer orders from Amazon, Flipkart and Myntra channels.
 
-
 ## Watch videos related to data analytics project: 
 https://www.youtube.com/watch?v=gTK5rNhWJyA 
