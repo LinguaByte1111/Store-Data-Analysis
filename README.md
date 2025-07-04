@@ -1,25 +1,39 @@
 # Store-Data-Analysis
 
-## Excel- Vrinda Store Data Analysis 
-Data and files related to Excel tutorial videos on Rishabh Mishra's youtube channel 
+## Excel - Vrinda Store Data Analysis  
+Data and files related to Excel tutorial videos from Rishabh Mishra's YouTube channel.
 
-## **Process**
+---
 
-- Verify data for any missing values and anomalies, and sort out the same.
-- Made sure data is consistent and clean with respect to data type, data format and values used.
-- Created pivot tables according to the questions asked.
-- Merge all pivot tables into one dashboard and apply slicer to make <a href="https://github.com/LinguaByte1111/Store-Data-Analysis/blob/main/Vrinda%20Store%20Annual%20Report.jpg">dashboard interactive</a> and dynamic.
+## Process
 
-## **Dashboard**
+- Verified data for missing values and anomalies, and resolved them accordingly.  
+- Ensured data consistency and cleanliness regarding data types, formats, and values.  
+- Created pivot tables based on specific business questions.  
+- Merged all pivot tables into a single interactive dashboard and applied slicers to make it dynamic.  
+- [View the interactive dashboard image here](https://github.com/LinguaByte1111/Store-Data-Analysis/blob/main/Vrinda%20Store%20Annual%20Report.jpg).
 
-![Alt text of the image](https://github.com/LinguaByte1111/Store-Data-Analysis/blob/main/Vrinda%20Store%20Annual%20Report.jpg)
+---
 
-## **Project Insight**
+## Dashboard
 
-- Women customers are more likely to buy products compared to men (~65%).
-- The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
-- The adult age group (30-49 yrs) is max contributing (~50%) and buys the most products.
-- The maximum number of products customer orders from Amazon, Flipkart and Myntra channels.
+![Vrinda Store Annual Report Dashboard](https://github.com/LinguaByte1111/Store-Data-Analysis/blob/main/Vrinda%20Store%20Annual%20Report.jpg)
 
-## Watch videos related to data analytics project: 
-https://www.youtube.com/watch?v=gTK5rNhWJyA 
+---
+
+## Project Insights
+
+- Women customers are more likely to buy products compared to men (~65%).  
+- Maharashtra, Karnataka, and Uttar Pradesh are the top 3 states in terms of product purchases.  
+- The adult age group (30-49 years) contributes the most (~50%) to the total sales.  
+- Amazon, Flipkart, and Myntra are the leading sales channels for product orders.
+
+---
+
+## Related Video Tutorial
+
+Watch the detailed data analytics project walkthrough here:  
+[Excel Data Analytics Project - Vrinda Store](https://www.youtube.com/watch?v=gTK5rNhWJyA)
+
+---
+
